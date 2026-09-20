@@ -28,6 +28,7 @@ Los proyectos que están acá abajo salieron de necesidades reales, no de un enu
 **Lo que he usado en proyectos**
 
 ![](https://skillicons.dev/icons?i=py,js,fastapi,react,tailwind,angular,firebase,sqlite,gcp&theme=dark)
+
 **De la carrera**
 
 ![](https://skillicons.dev/icons?i=cpp,java,mysql,git,github,linux&theme=dark)
